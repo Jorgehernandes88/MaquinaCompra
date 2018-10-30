@@ -1,5 +1,5 @@
 package Console;
-
+//Jorge 30/10/2018
 import java.util.Scanner;
 import Maquina.Maquina;
 import Maquina.Produtos;
